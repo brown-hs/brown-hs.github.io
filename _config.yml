@@ -3,3 +3,9 @@ theme: jekyll-theme-cayman
 title: 阿帅的博客
 subtitle: 这是副标题
 author: 阿帅
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo: https://github.com/brown-hs/brown-hs.github.io.git
+  branch: master
